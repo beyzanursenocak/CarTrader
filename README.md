@@ -10,7 +10,9 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ![image](https://user-images.githubusercontent.com/99497565/223667367-77d07d9f-0a8b-41c8-a306-d44c20e26603.png)
 
+![image](https://user-images.githubusercontent.com/99497565/223668029-812b3c41-579c-44ee-b1b8-759db78cf3dd.png)
 
+![image](https://user-images.githubusercontent.com/99497565/223668165-59478992-0110-433f-9612-c57ab335013c.png)
 
 
 ## Setup
