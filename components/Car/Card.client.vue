@@ -18,7 +18,7 @@
       />
       <div class="p-4 flex flex-col">
         <div>
-          <h1 class="text-2x text-orange-700">
+          <h1 class="text-2x text-orange-700">https://github.com/beyzanursenocak/CarTrader/blob/main/components/Car/Card.client.vue
             {{ car.name }}
           </h1>
           <p class="text-gray-700">
@@ -34,7 +34,7 @@
 </template>
 
 <script setup>
-import heartFilled from '@/assets/heartfilled.png'
+import heartFilled from '@/assets/heartFilled.png'
 import heartOutline from '@/assets/heartOutline.png'
 const props = defineProps({
   car: Object,
